@@ -7,7 +7,18 @@ As shown below *Captioner-Aug* augments the original captioner using external im
 ![image](captioner-aug.PNG)
 
 ## Reproduction
-Please first reproduce [VisDiff](https://github.com/Understanding-Visual-Datasets/VisDiff) and follow their instructions to install necessary packages. Then replace ```proposer.py``` in `\components` with our modified version. 
+Please first reproduce [VisDiff](https://github.com/Understanding-Visual-Datasets/VisDiff) and follow their instructions to install necessary packages. Then replace ```proposer.py``` in `components/` with our modified version. 
 
-The implementation of our ReAct agent is in `\augmented_captioner`. Please place this folder under the root directory of VisDiff.
+The implementation of our ReAct agent is in `augmented_captioner/`. Please place this folder under the root directory of VisDiff.
 
+To enable *Captioner-Aug*, please set `augmented` to true and `augmented_prompt` to a prompt like "Tell me if the image is blurry or not." in the `proposer` section on the configuration file. Below is an example:
+```
+base.yaml
+
+proposer:  # LLM Proposer
+  ...
+  augmented: True  # Enable augmented caption or not
+  augmented_prompt: Describe if the image is blurry or not. # Only works if augmented is True
+```
+
+Please refer to `configs/base.yaml` for full details.
