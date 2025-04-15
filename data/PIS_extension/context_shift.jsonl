@@ -1,0 +1,21 @@
+{"set1": "A red car parked on a city street during the day", "set2": "A red car parked on a snowy mountain road during the day", "difference": "urban street vs. snowy mountain road"}
+{"set1": "A man reading a book in a library", "set2": "A man reading a book in a park", "difference": "indoor library vs. outdoor park"}
+{"set1": "A child playing with a toy inside a bedroom", "set2": "A child playing with a toy at the beach", "difference": "indoor bedroom vs. outdoor beach"}
+{"set1": "A dog sitting on a living room couch", "set2": "A dog sitting in a grassy field", "difference": "living room vs. grassy field"}
+{"set1": "A woman practicing yoga in a studio", "set2": "A woman practicing yoga on a cliff at sunrise", "difference": "indoor studio vs. outdoor cliff"}
+{"set1": "A boat floating on a calm lake", "set2": "A boat docked at a busy harbor", "difference": "lake vs. harbor"}
+{"set1": "A chef cooking in a kitchen", "set2": "A chef cooking at an outdoor street market", "difference": "indoor kitchen vs. street market"}
+{"set1": "A person riding a bike through a forest trail", "set2": "A person riding a bike on a desert road", "difference": "forest trail vs. desert road"}
+{"set1": "A wedding ceremony inside a church", "set2": "A wedding ceremony on a beach", "difference": "church vs. beach"}
+{"set1": "A family having dinner in a dining room", "set2": "A family having dinner at a picnic table in a park", "difference": "indoor dining room vs. outdoor park"}
+{"set1": "A man working on a laptop in an office", "set2": "A man working on a laptop in a coffee shop", "difference": "office vs. coffee shop"}
+{"set1": "A horse standing in a stable", "set2": "A horse standing in a grassy meadow", "difference": "stable vs. meadow"}
+{"set1": "A girl painting at home", "set2": "A girl painting outdoors in a field", "difference": "indoors vs. outdoors field"}
+{"set1": "A musician playing guitar on stage", "set2": "A musician playing guitar at a campfire", "difference": "concert stage vs. campfire"}
+{"set1": "A couple walking hand-in-hand in a shopping mall", "set2": "A couple walking hand-in-hand along a beach", "difference": "mall vs. beach"}
+{"set1": "A cat sleeping on a bed in a bedroom", "set2": "A cat sleeping on a rock under the sun", "difference": "bedroom vs. outdoors rock"}
+{"set1": "A person eating breakfast in a cafe", "set2": "A person eating breakfast on a balcony", "difference": "cafe vs. balcony"}
+{"set1": "A boy flying a kite in a park", "set2": "A boy flying a kite on a hilltop", "difference": "park vs. hilltop"}
+{"set1": "A bus driving through city streets at night", "set2": "A bus driving through a countryside road at night", "difference": "city streets vs. countryside road"}
+{"set1": "A group of friends watching a movie indoors", "set2": "A group of friends watching a movie on an outdoor projector", "difference": "indoor room vs. outdoor screening"}
+{"set1": "A woman jogging in a suburban neighborhood", "set2": "A woman jogging along a mountain trail", "difference": "suburban street vs. mountain trail"}

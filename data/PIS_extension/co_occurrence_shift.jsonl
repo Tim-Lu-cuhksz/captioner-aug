@@ -1,0 +1,21 @@
+{"set1": "A cat sitting on a windowsill", "set2": "A cat and a parrot sitting on a windowsill", "difference": "presence of a parrot"}
+{"set1": "A boy playing with a soccer ball", "set2": "A boy playing with a soccer ball and a dog", "difference": "dog joining the play"}
+{"set1": "A woman sitting alone at a cafe table", "set2": "A woman sitting with a man at a cafe table", "difference": "presence of another person"}
+{"set1": "A man walking in the rain", "set2": "A man walking in the rain holding hands with a child", "difference": "co-occurrence of child"}
+{"set1": "A person kayaking on a lake", "set2": "Two people kayaking together on a lake", "difference": "solo vs. duo kayaking"}
+{"set1": "A chef preparing food in the kitchen", "set2": "A chef preparing food with an assistant in the kitchen", "difference": "presence of assistant"}
+{"set1": "A dog lying on a couch", "set2": "A dog lying on a couch next to a cat", "difference": "presence of cat"}
+{"set1": "A man giving a presentation to an empty room", "set2": "A man giving a presentation to a small audience", "difference": "audience presence"}
+{"set1": "A child riding a bicycle", "set2": "Two children riding bicycles side by side", "difference": "solo vs. group activity"}
+{"set1": "A person reading a book in a park", "set2": "A person reading a book while a dog rests beside them", "difference": "presence of dog"}
+{"set1": "A woman painting a canvas indoors", "set2": "A woman painting a canvas while talking to a friend", "difference": "interaction with friend"}
+{"set1": "A man fishing by himself on a dock", "set2": "A man fishing with his son on a dock", "difference": "co-occurrence with son"}
+{"set1": "A cat sleeping on a pillow", "set2": "A cat and a kitten sleeping on a pillow", "difference": "presence of kitten"}
+{"set1": "A girl holding a balloon", "set2": "A girl holding a balloon and an ice cream cone", "difference": "additional object (ice cream)"}
+{"set1": "A group of people sitting around a campfire", "set2": "A person sitting alone by a campfire", "difference": "group vs. alone"}
+{"set1": "A man taking a photo of a landscape", "set2": "A man taking a photo of a friend in front of a landscape", "difference": "presence of friend being photographed"}
+{"set1": "A person standing on a subway platform", "set2": "A person standing on a subway platform next to a stranger", "difference": "presence of another person"}
+{"set1": "A woman jogging in a park", "set2": "A woman jogging in a park with her dog", "difference": "jogging alone vs. with dog"}
+{"set1": "A chef plating a dish", "set2": "A chef plating a dish while talking to a food critic", "difference": "presence of food critic"}
+{"set1": "A man hiking on a trail", "set2": "A man hiking on a trail with a friend", "difference": "presence of friend"}
+{"set1": "A musician playing guitar on stage", "set2": "A musician playing guitar on stage with a drummer", "difference": "presence of drummer"}

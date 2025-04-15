@@ -1,0 +1,21 @@
+{"set1": "A car viewed from the front", "set2": "A car viewed from the back", "difference": "front view vs. back view"}
+{"set1": "A person sitting at a desk seen from the side", "set2": "A person sitting at a desk seen from behind", "difference": "side view vs. back view"}
+{"set1": "A mountain range viewed from a valley below", "set2": "A mountain range viewed from a drone above", "difference": "ground-level vs. aerial viewpoint"}
+{"set1": "A cat lying on a rug seen from above", "set2": "A cat lying on a rug seen from the front", "difference": "top-down vs. front view"}
+{"set1": "A woman standing in a field seen from a distance", "set2": "A woman standing in a field seen in a close-up", "difference": "far vs. close-up view"}
+{"set1": "A tree seen from eye level", "set2": "A tree seen from below, looking up at the branches", "difference": "eye-level vs. low-angle upward view"}
+{"set1": "A skateboarder performing a trick seen from the front", "set2": "A skateboarder performing a trick seen from below", "difference": "front view vs. low-angle view"}
+{"set1": "A city skyline seen from the street", "set2": "A city skyline seen from an airplane window", "difference": "street-level vs. aerial view"}
+{"set1": "A person hiking on a trail viewed from behind", "set2": "A person hiking on a trail viewed from the front", "difference": "rear view vs. frontal view"}
+{"set1": "A dog sitting in a chair seen from the side", "set2": "A dog sitting in a chair seen from above", "difference": "side view vs. top-down view"}
+{"set1": "A concert stage seen from the front row", "set2": "A concert stage seen from the back of the venue", "difference": "close-up vs. distant view"}
+{"set1": "A basketball player taking a shot seen from the side", "set2": "A basketball player taking a shot seen from above the hoop", "difference": "side view vs. top-down view"}
+{"set1": "A chef cooking in a kitchen seen from the front", "set2": "A chef cooking in a kitchen seen from over-the-shoulder", "difference": "frontal view vs. over-the-shoulder"}
+{"set1": "A cyclist riding on a road viewed from the front", "set2": "A cyclist riding on a road viewed from behind", "difference": "front view vs. rear view"}
+{"set1": "A child playing with blocks seen at eye level", "set2": "A child playing with blocks seen from a bird's-eye view", "difference": "eye-level vs. bird's-eye view"}
+{"set1": "A horse grazing in a field seen from the side", "set2": "A horse grazing in a field seen from behind", "difference": "side view vs. rear view"}
+{"set1": "A person climbing a rock wall seen from below", "set2": "A person climbing a rock wall seen from above", "difference": "low-angle vs. high-angle view"}
+{"set1": "A soccer match seen from the sideline", "set2": "A soccer match seen from above the stadium", "difference": "sideline vs. top-down view"}
+{"set1": "A violinist performing on stage seen from the audience", "set2": "A violinist performing on stage seen from backstage", "difference": "audience view vs. backstage view"}
+{"set1": "A group of friends sitting around a campfire seen from the outside", "set2": "A group of friends sitting around a campfire seen from inside the circle", "difference": "external vs. internal viewpoint"}
+{"set1": "A train arriving at a platform seen from the platform", "set2": "A train arriving at a platform seen from inside the train", "difference": "outside vs. inside view"}

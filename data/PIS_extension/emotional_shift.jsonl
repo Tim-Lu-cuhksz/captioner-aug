@@ -1,0 +1,21 @@
+{"set1": "A child smiling while riding a bicycle", "set2": "A child frowning while riding a bicycle", "difference": "smiling vs. frowning"}
+{"set1": "A woman laughing while talking on the phone", "set2": "A woman crying while talking on the phone", "difference": "laughing vs. crying"}
+{"set1": "A man confidently giving a speech", "set2": "A man nervously giving a speech", "difference": "confident vs. nervous expression"}
+{"set1": "A dog jumping with excitement in a yard", "set2": "A dog sitting quietly with its head down in a yard", "difference": "excited vs. withdrawn behavior"}
+{"set1": "A girl joyfully opening a present", "set2": "A girl looking disappointed while opening a present", "difference": "joyful vs. disappointed reaction"}
+{"set1": "A couple smiling while holding hands", "set2": "A couple arguing while holding hands", "difference": "affectionate vs. argumentative behavior"}
+{"set1": "A student confidently raising their hand in class", "set2": "A student looking anxious and avoiding eye contact in class", "difference": "confidence vs. anxiety"}
+{"set1": "A man peacefully meditating in a park", "set2": "A man looking stressed and pacing in a park", "difference": "calm vs. stressed behavior"}
+{"set1": "A child laughing while playing with building blocks", "set2": "A child angrily throwing building blocks", "difference": "laughing vs. angry behavior"}
+{"set1": "A cat curiously watching a butterfly", "set2": "A cat looking bored and uninterested", "difference": "curious vs. uninterested"}
+{"set1": "A woman smiling while painting", "set2": "A woman frustrated and wiping paint off her hands", "difference": "happy vs. frustrated"}
+{"set1": "A man dancing joyfully at a party", "set2": "A man standing alone and looking sad at a party", "difference": "joyful vs. sad behavior"}
+{"set1": "A boy excitedly running toward his friend", "set2": "A boy hesitantly walking toward his friend", "difference": "excited vs. hesitant movement"}
+{"set1": "A dog happily playing fetch", "set2": "A dog refusing to chase the ball and lying down", "difference": "playful vs. unengaged"}
+{"set1": "A girl enthusiastically singing into a microphone", "set2": "A girl nervously holding the microphone and not singing", "difference": "enthusiastic vs. nervous behavior"}
+{"set1": "A person laughing while reading a book", "set2": "A person crying while reading a book", "difference": "laughing vs. crying reaction"}
+{"set1": "A toddler clapping with joy", "set2": "A toddler screaming and throwing a tantrum", "difference": "joyful vs. angry emotional state"}
+{"set1": "A teacher speaking calmly to students", "set2": "A teacher yelling at students", "difference": "calm vs. angry tone"}
+{"set1": "A man hugging a friend with a big smile", "set2": "A man avoiding eye contact with a tense expression", "difference": "friendly vs. withdrawn emotional behavior"}
+{"set1": "A girl excitedly jumping on a trampoline", "set2": "A girl sitting on the trampoline looking bored", "difference": "excited vs. bored behavior"}
+{"set1": "A boy proudly showing his drawing", "set2": "A boy hiding his drawing and looking ashamed", "difference": "proud vs. ashamed behavior"}
