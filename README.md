@@ -22,3 +22,6 @@ proposer:  # LLM Proposer
 ```
 
 Please refer to `configs/base.yaml` for full details.
+
+## Dataset
+Please find our evaluation datasets in the [here](https://uofwaterloo-my.sharepoint.com/:f:/g/personal/d72lu_uwaterloo_ca/EoWmVG2EhfVIkwRlgpLeIBgB2SIwt_82yKVGNU_-AJmJcw?e=8rWMir). Note that you have to log into your UWaterloo account to access the dataset.
